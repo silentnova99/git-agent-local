@@ -5,7 +5,7 @@ Thanks for wanting to help! 🎉
 ## Setup
 
 ```bash
-git clone https://github.com/your-org/git-agent-local
+git clone https://github.com/silentnova99/git-agent-local
 cd git-agent-local
 npm install
 npm run build

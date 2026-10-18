@@ -195,7 +195,7 @@ git-agent commit
 
 10 seconds. No cloud. No bill.
 
-github.com/your-org/git-agent-local
+github.com/silentnova99/git-agent-local
 
 #BuildInPublic #Ollama #Git
 ```

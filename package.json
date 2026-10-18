@@ -18,11 +18,11 @@
   "author": "git-agent-local contributors",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-org/git-agent-local.git"
+    "url": "https://github.com/silentnova99/git-agent-local.git"
   },
-  "homepage": "https://github.com/your-org/git-agent-local#readme",
+  "homepage": "https://github.com/silentnova99/git-agent-local#readme",
   "bugs": {
-    "url": "https://github.com/your-org/git-agent-local/issues"
+    "url": "https://github.com/silentnova99/git-agent-local/issues"
   },
   "bin": {
     "git-agent": "./bin/git-agent.js"

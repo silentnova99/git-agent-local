@@ -149,7 +149,7 @@ and your effective config in one shot.
 PRs welcome! Start here:
 
 ```bash
-git clone https://github.com/your-org/git-agent-local
+git clone https://github.com/silentnova99/git-agent-local
 cd git-agent-local && npm install && npm run build
 npm link          # puts `git-agent` on your PATH
 git-agent doctor  # verify your setup
@@ -177,6 +177,6 @@ contributors must follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 **⭐ Star the repo if it saved you from writing another commit message.**
 
-Report bugs · Request features · [Discussions](https://github.com/your-org/git-agent-local/discussions)
+Report bugs · Request features · [Discussions](https://github.com/silentnova99/git-agent-local/discussions)
 
 </div>
